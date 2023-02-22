@@ -17,7 +17,8 @@
     "webpack-cli": "^4.10.0"
   },
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js",
+    "watch": "webpack --watch"
   },
   "devDependencies": {
     "stylelint": "^13.13.1",
